@@ -19,7 +19,6 @@ This project clusters customers based on their personal and transactional data a
 - Contains features such as:
   - Demographic data (Age, Gender, Income, etc.)
   - Purchase behavior (Amount spent, Purchase frequency, etc.)
-- [Specify source or upload location if applicable]
 
 ---
 
