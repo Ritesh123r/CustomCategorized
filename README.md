@@ -54,3 +54,7 @@ This project clusters customers based on their personal and transactional data a
 - Classification evaluated using Accuracy, Confusion Matrix, and F1 Score
 
 ---
+
+
+##flask ,html,css
+
